@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+}
+
+.banner, .recipe-title {
+  background-color: red;
+  width: 75%;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+
+ul, ol {
+  color: white;
+  text-decoration: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.site-name {
+  color: white;
+  text-align: center;
+}
+
+.recipe-title {
+  color: white;
+  text-align: center;
+}
+
+.headings {
+  color: white;
+}
+
+p {
+  color: white;
+}
