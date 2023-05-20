@@ -1,27 +1,33 @@
 
-
 body {
   background-color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.banner, .recipe-title {
+p {
+  color: white;
+  font-size: 20px;
+}
+
+.banner {
   background-color: red;
-  width: 75%;
   margin: auto;
   margin-bottom: 10px;
 }
 
 
-ul, ol {
+.div-nav-bar, .ul-nav-bar, .li-nav-bar {
+  text-align: center;
+  color: white;
+  text-align: left;
+  list-style-type: none;
+}
+
+li, a {
   color: white;
   text-decoration: none;
 }
 
-a {
-  color: white;
-  text-decoration: none;
-}
 
 .site-name {
   color: white;
@@ -31,12 +37,17 @@ a {
 .recipe-title {
   color: white;
   text-align: center;
+  margin: auto;
+  display: block;
+  background-color: red;
 }
 
 .headings {
   color: white;
+  font-size: 34px;
 }
 
-p {
-  color: white;
+
+.headings {
+  background-color: red;
 }
